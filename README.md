@@ -3,7 +3,7 @@
 Minimal reproducer for a runtime crash in `micronaut-jaxrs-server` when a
 JAX-RS controller class is annotated with `@Deprecated`.
 
-Filed at: https://github.com/micronaut-projects/micronaut-jaxrs/issues/_TODO_
+Filed at: https://github.com/micronaut-projects/micronaut-jaxrs/issues/640
 
 ## Resolved versions
 
